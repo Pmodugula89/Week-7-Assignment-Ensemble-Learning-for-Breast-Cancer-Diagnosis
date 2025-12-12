@@ -9,11 +9,11 @@ Existing diagnostic models show promise but exhibit high variance and unstable p
 Your job is to apply Bagging and Boosting to produce more reliable outputs for oncologists.
 
 Toolchain
-GitHub — version control and submission
-Visual Studio Code — local Python development (integrated terminal & debugger)
-GitHub Copilot — AI‑assisted coding (used responsibly)
-Open‑source libraries — NumPy, Pandas, scikit‑learn, Matplotlib, Seaborn
-(Optional) XGBoost for an extra boosting baseline
+GitHub — version control and submission 
+Visual Studio Code — local Python development (integrated terminal & debugger) 
+GitHub Copilot — AI‑assisted coding (used responsibly) 
+Open‑source libraries — NumPy, Pandas, scikit‑learn, Matplotlib, Seaborn 
+(Optional) XGBoost for an extra boosting baseline 
 
 
 Project Structure
