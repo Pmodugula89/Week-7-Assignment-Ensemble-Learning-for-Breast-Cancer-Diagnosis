@@ -14,6 +14,8 @@ Visual Studio Code — local Python development (integrated terminal & debugger)
 GitHub Copilot — AI‑assisted coding (used responsibly)
 Open‑source libraries — NumPy, Pandas, scikit‑learn, Matplotlib, Seaborn
 (Optional) XGBoost for an extra boosting baseline
+
+
 Project Structure
 Week-7-Assignment-Ensemble-Learning-for-Breast-Cancer-Diagnosis/ │ ├── README.md ├── requirements.txt ├── .gitignore │ ├── src/ │ ├── data_load.py │ ├── preprocess.py │ ├── base_tree.py │ ├── bagging.py │ ├── boosting.py │ ├── evaluate.py │ └── main.py │ ├── figures/ │ ├── confusion_matrix_base_tree.png │ ├── confusion_matrix_bagging.png │ └── confusion_matrix_boosting.png │ ├── ppt/ │ └── ensemble_diagnosis.pptx │ └── video/ └── ensemble_briefing.mp4
 
@@ -25,7 +27,7 @@ Target: Binary classification (malignant vs benign).
 Setup Instructions
 Clone the repository
 
-git clone https://github.com/Manishakittu/cst600-week07-ensembles
+git clone https://github.com/Pmodugula89/Week-7-Assignment-Ensemble-Learning-for-Breast-Cancer-Diagnosis.git
 cd Week-7-Assignment-Ensemble-Learning-for-Breast-Cancer-Diagnosis
 
 
